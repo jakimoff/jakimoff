@@ -95,7 +95,7 @@
 <!-- later
 [gps]: https://pagespeed-insights.herokuapp.com?url=https://galaxy-it.net&theme=dark
 
-![Galaxy-IT's github stats](https://github-readme-stats.vercel.app/api?username=Galaxy-IT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Galaxy-IT's github stats](https://github-readme-stats.vercel.app/api?username=jakimoff&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Galaxy-IT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
