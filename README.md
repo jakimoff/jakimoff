@@ -52,7 +52,7 @@
 <code><img alt="Sass" width="60" height="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></code>
 <code><img alt="Less" width="60" height="40" src="https://cdn.worldvectorlogo.com/logos/less-63.svg" /></code>
 <code><img alt="Stylus" width="60" height="40" src="https://cdn.worldvectorlogo.com/logos/stylus-1.svg" /></code>
-<code><img alt="JavaScript" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
+<code><img alt="JavaScript" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /></code>
 <code><img alt="TypeScript" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></code>
 <code><img alt="Vue" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" /></code>
 ---
