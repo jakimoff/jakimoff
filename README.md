@@ -87,7 +87,7 @@
 [mailto]: mailto:hello@galaxy-it.net "To write email for Galaxy IT"
 [mailto_src]: https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/mail.svg "To write email for Galaxy IT"
 
-[stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxy-IT&layout=compact "Our Stats"
+[stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=jakimoff&layout=compact "Our Stats"
 [views]: https://gpvc.arturio.dev/Galaxy-IT "Profile Views"
 
 [skill_html]: https://image.flaticon.com/icons/svg/226/226269.svg "HTML5"
