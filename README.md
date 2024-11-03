@@ -40,7 +40,7 @@
 <code><img alt="trello" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/trello.svg" /></code>
 
 ### 🔨 Our Skills:
-<code><img alt="Figma" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" /></code>
+<code><img alt="Figma" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" /></code>
 <code><img alt="Photoshop" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" /></code>
 ---
 <code><img alt="gulp" width="15" height="40" src="https://cdn.worldvectorlogo.com/logos/gulp.svg" /></code>
