@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, everybody!</h1>
 
 ---
-### CEO Galaxy IT Inc.
+### I'm on position of CEO in Galaxy IT Inc.
 
 ~~~
 ### Only Web & Mobile Design and Web Development ###
